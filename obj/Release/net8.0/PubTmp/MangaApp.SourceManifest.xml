@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\công nghệ thông tin\Dot Net Api\MangaApp\MangaApp\obj\Release\net8.0\PubTmp\Out\" />
+  <dbfullsql path="D:\công nghệ thông tin\Dot Net Api\MangaApp\MangaApp\obj\Release\net8.0\PubTmp\EFSQLScripts\MangaApp.Data.MangaAppDbcontext.sql" />
+</sitemanifest>
